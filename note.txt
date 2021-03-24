@@ -1,4 +1,0 @@
-Kelvin
-Python
-Programming design
-Python Oriented Object Programming design
